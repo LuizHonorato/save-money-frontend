@@ -1,4 +1,4 @@
 export default {
-    API_URL: 'http://save-money-backend.herokuapp.com/api',
-    OAPI_URL: 'http://save-money-backend.herokuapp.com/oapi',
+    API_URL: 'https://save-money-backend.herokuapp.com/api',
+    OAPI_URL: 'https://save-money-backend.herokuapp.com/oapi',
 }
